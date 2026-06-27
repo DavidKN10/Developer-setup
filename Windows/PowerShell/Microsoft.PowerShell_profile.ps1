@@ -10,5 +10,5 @@ Clear-Host
 
 # Force Fastfetch to use YOUR config every time (bypass path confusion)
 if (Get-Command fastfetch -ErrorAction SilentlyContinue) {
-    fastfetch -c "C:/Users/David/.config/fastfetch/config.jsonc"
+    fastfetch -c "path to Fastfetch's config.jsonc"
 }
