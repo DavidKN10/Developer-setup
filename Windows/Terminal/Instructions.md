@@ -4,7 +4,7 @@ Make sure winget is installed first
 ## `settings.json`
 To find the `settings.json` file, open settings in Terminal and go to "Open JSON file".
 
-Copy the `settings.json` from this repo. Make sure to include any addiontal profiles that you had.
+Copy the `settings.json` from this repo. Make sure to include any addiontal profiles that you had in the profiles list.
 
 Make sure to set a background image for the PowerShell profile in `backgroundImage`.
 
